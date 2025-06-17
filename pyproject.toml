@@ -1,0 +1,22 @@
+[project]
+name = "housing-map-project"
+version = "0.1.0"
+description = "Housing map project with Streamlit"
+requires-python = ">=3.9"
+authors = [
+    {name = "Jarret", email = "jarretspino@gmail.com"},
+]
+dependencies = [
+    "streamlit>=1.33.0",
+    "pandas>=2.2.1",
+    "folium>=0.16.0",
+    "streamlit-folium>=0.15.0",
+    "geopy>=2.4.1",
+    "fastapi",
+    "uvicorn",
+    "beautifulsoup4",
+    "requests",
+    "google-cloud-firestore",
+    "pydantic",
+    "honcho",
+]

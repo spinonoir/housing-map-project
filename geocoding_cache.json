@@ -1,0 +1,207 @@
+{
+  "1427 15th st||90404": {
+    "latitude": 34.024521,
+    "longitude": -118.4841956,
+    "display_name": "1427, 15th Street, Santa Monica, Los Angeles County, California, 90404, United States"
+  },
+  "12811 matteson ave||90066": {
+    "latitude": 33.9984128,
+    "longitude": -118.4392791,
+    "display_name": "12811, Matteson Avenue, Culver Garden, Mar Vista, Los Angeles, Los Angeles County, California, 90066, United States"
+  },
+  "3588 s centinela ave||90066": {
+    "latitude": 34.0081619,
+    "longitude": -118.4368603,
+    "display_name": "3588, South Centinela Avenue, Santa Monica, Los Angeles County, California, 90066, United States"
+  },
+  "3855 motor ave||90232": {
+    "latitude": 34.0189055,
+    "longitude": -118.403268,
+    "display_name": "3855, Motor Avenue, Palms, Culver City, Los Angeles County, California, 90232, United States"
+  },
+  "9920 venice blvd||90232": {
+    "latitude": 34.0230187,
+    "longitude": -118.398873,
+    "display_name": "9920, Venice Boulevard, Palms, Los Angeles, Los Angeles County, California, 90232, United States"
+  },
+  "8833 reading ave||90045": {
+    "latitude": 33.9578106,
+    "longitude": -118.3816852,
+    "display_name": "8833, Reading Avenue, Los Angeles, Los Angeles County, California, 90045, United States"
+  },
+  "1534 meadowbrook ave||90019": {
+    "latitude": 34.0461888,
+    "longitude": -118.3510578,
+    "display_name": "1534, Meadowbrook Avenue, Mid-City, Los Angeles, Los Angeles County, California, 90019, United States"
+  },
+  "4639 lomita st||90019": {
+    "latitude": 34.0460667,
+    "longitude": -118.337989,
+    "display_name": "4639, Lomita Street, Victoria Park, Mid-Wilshire, Los Angeles, Los Angeles County, California, 90019, United States"
+  },
+  "6500 romaine st||90038": {
+    "latitude": 34.08884,
+    "longitude": -118.331127,
+    "display_name": "6500, Romaine Street, Television Center Inc., Hollywood, Los Angeles, Los Angeles County, California, 90038, United States"
+  },
+  "3977 beverly blvd||90004": {
+    "latitude": 34.0765697,
+    "longitude": -118.2950253,
+    "display_name": "3977, Beverly Boulevard, Los Angeles, Los Angeles County, California, 90004, United States"
+  },
+  "328 n kingsley dr||90004": {
+    "latitude": 34.076716,
+    "longitude": -118.3033979,
+    "display_name": "328, North Kingsley Drive, Los Angeles, Los Angeles County, California, 90004, United States"
+  },
+  "5111 harold way ||90027": {
+    "latitude": 34.0994445,
+    "longitude": -118.3008077,
+    "display_name": "5111, Harold Way, Little Armenia, Los Angeles, Los Angeles County, California, 90027, United States"
+  },
+  "5443 harold way||90027": {
+    "latitude": 34.0994157,
+    "longitude": -118.30835,
+    "display_name": "5443, Harold Way, Little Armenia, Los Angeles, Los Angeles County, California, 90027, United States"
+  },
+  "1415 n hobart blvd||90027": {
+    "latitude": 34.0969507,
+    "longitude": -118.305714,
+    "display_name": "1415, North Hobart Boulevard, Los Angeles, Los Angeles County, California, 90027, United States"
+  },
+  "800 s western ave||90010": {
+    "latitude": 34.057535,
+    "longitude": -118.308971,
+    "display_name": "800, South Western Avenue, Koreatown, Los Angeles, Los Angeles County, California, 90005, United States"
+  },
+  "1221 myra ave||90029": {
+    "latitude": 34.0952198,
+    "longitude": -118.2810384,
+    "display_name": "1221, Myra Avenue, Los Feliz Neighborhood Council District, Los Angeles, Los Angeles County, California, 90029, United States"
+  },
+  "2921 leeward ave||90005": {
+    "latitude": 34.0588018,
+    "longitude": -118.2874146,
+    "display_name": "2921, Leeward Avenue, Westlake, Los Angeles, Los Angeles County, California, 90005, United States"
+  },
+  "2233 w 14th st||90006": {
+    "latitude": 34.046174,
+    "longitude": -118.2871573,
+    "display_name": "2233, West 14th Street, Pico-Union, Los Angeles, Los Angeles County, California, 90006, United States"
+  },
+  "1408 s st andrews pl||90019": {
+    "latitude": 34.0462073,
+    "longitude": -118.3114927,
+    "display_name": "1408, South Saint Andrews Place, Harvard Heights, Los Angeles, Los Angeles County, California, 90019, United States"
+  },
+  "1510 s st andrews||90019": {
+    "latitude": 34.0483121,
+    "longitude": -118.3116176,
+    "display_name": "South Saint Andrews Place, Harvard Heights, Koreatown, Los Angeles, Los Angeles County, California, 90005, United States"
+  },
+  "3809 w adams ||90018": {
+    "latitude": 34.0326938,
+    "longitude": -118.3262108,
+    "display_name": "3809, West Adams Boulevard, Jefferson Park, Los Angeles, Los Angeles County, California, 90018, United States"
+  },
+  "2618 west blvd||90016": {
+    "latitude": 34.0322111,
+    "longitude": -118.3415938,
+    "display_name": "2618, West Boulevard, Crenshaw, West Adams, Los Angeles, Los Angeles County, California, 90016, United States"
+  },
+  "2416 la salle ave||90004": {
+    "latitude": 34.0145256,
+    "longitude": -118.3056956,
+    "display_name": "La Salle Avenue, Exposition Park, Los Angeles, Los Angeles County, California, 90062, United States"
+  },
+  "6210 10th ave||90043": {
+    "latitude": 33.9837256,
+    "longitude": -118.3278102,
+    "display_name": "6210, 10th Avenue, Hyde Park, Los Angeles, Los Angeles County, California, 90043, United States"
+  },
+  "4325 s main st||90037": {
+    "latitude": 34.0049581,
+    "longitude": -118.2740804,
+    "display_name": "4325, South Main Street, Historic South-Central, Los Angeles, Los Angeles County, California, 90037, United States"
+  },
+  "5118 woodlawn ave||90011": {
+    "latitude": 33.9962016,
+    "longitude": -118.2727443,
+    "display_name": "5118, Woodlawn Avenue, South Park, Los Angeles, Los Angeles County, California, 90011, United States"
+  },
+  "719 w 47th st||90037": {
+    "latitude": 34.0007381,
+    "longitude": -118.2859118,
+    "display_name": "719, West 47th Street, Vermont Square, Los Angeles, Los Angeles County, California, 90037, United States"
+  },
+  "727 w 81st st||90044": {
+    "latitude": 33.96559,
+    "longitude": -118.2859504,
+    "display_name": "727, West 81st Street, Vermont Knolls, Los Angeles, Los Angeles County, California, 90044, United States"
+  },
+  "318 w 84th pl||90003": {
+    "latitude": 33.962303,
+    "longitude": -118.2790647,
+    "display_name": "318, West 84th Place, Vermont Knolls, Los Angeles, Los Angeles County, California, 90003, United States"
+  },
+  "805 s centre st||90731": {
+    "latitude": 33.7367771,
+    "longitude": -118.2836352,
+    "display_name": "805, South Centre Street, San Pedro Arts and Cultural District, San Pedro, Los Angeles, Los Angeles County, California, 90731, United States"
+  },
+  "6315 cherry ave||90805": {
+    "latitude": 33.869468,
+    "longitude": -118.168741,
+    "display_name": "6315, Cherry Avenue, Long Beach, Los Angeles County, California, 90805, United States"
+  },
+  "5740 camellia ave||91601": {
+    "latitude": 34.1751399,
+    "longitude": -118.3821371,
+    "display_name": "5740, Camellia Avenue, North Hollywood Neighborhood Council District, Los Angeles, Los Angeles County, California, 91601, United States"
+  },
+  "11460 killion st||91601": {
+    "latitude": 34.1712052,
+    "longitude": -118.3811167,
+    "display_name": "11460, Killion Street, North Hollywood Neighborhood Council District, Los Angeles, Los Angeles County, California, 91601, United States"
+  },
+  "211 s avenue 57||90042": {
+    "latitude": 34.1066729,
+    "longitude": -118.1922022,
+    "display_name": "211, South Avenue 57, Highland Park, Los Angeles, Los Angeles County, California, 90042, United States"
+  },
+  "18541 vincennes||91324": {
+    "latitude": 34.2410188,
+    "longitude": -118.5375865,
+    "display_name": "18541, Vincennes Street, Northridge West Neighborhood Council District, Los Angeles, Los Angeles County, California, 91324, United States"
+  },
+  "1559 n hill ave||91104": {
+    "latitude": 34.1730747,
+    "longitude": -118.1216659,
+    "display_name": "1559, North Hill Avenue, Pasadena, Los Angeles County, California, 91104, United States"
+  },
+  "8555 independence ave||91304": {
+    "latitude": 34.2260767,
+    "longitude": -118.5908014,
+    "display_name": "8555, Independence Avenue, Canoga Park Neighborhood Council District, Los Angeles, Los Angeles County, California, 91304, United States"
+  },
+  "610 n soto st||90033": {
+    "latitude": 34.0496959,
+    "longitude": -118.2058347,
+    "display_name": "610, North Soto Street, Boyle Heights, Los Angeles, Los Angeles County, California, 90033, United States"
+  },
+  "228 n soto st||90033": {
+    "latitude": 34.0457017,
+    "longitude": -118.2083733,
+    "display_name": "228, North Soto Street, Boyle Heights, Los Angeles, Los Angeles County, California, 90033, United States"
+  },
+  "2522 folsom st ||90033": {
+    "latitude": 34.0475057,
+    "longitude": -118.2044334,
+    "display_name": "2522, Folsom Street, Boyle Heights, Los Angeles, Los Angeles County, California, 90033, United States"
+  },
+  "10015 alondra blvd||90706": {
+    "latitude": 33.8894568,
+    "longitude": -118.1212274,
+    "display_name": "10015, Alondra Boulevard, Bellflower, Los Angeles County, California, 90706, United States"
+  }
+}

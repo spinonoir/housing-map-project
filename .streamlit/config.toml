@@ -1,0 +1,8 @@
+[theme]
+# Dark theme settings
+base="dark"
+primaryColor="#3498db"
+backgroundColor="#0E1117"
+secondaryBackgroundColor="#262730"
+textColor="#FAFAFA"
+font="sans serif" 
